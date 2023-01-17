@@ -67,7 +67,7 @@
     </div>
     </div>
 
-            <div class="col-lg-4">
+            <div class="col-lg-6">
     <div class="card bg-primary text-white">
       <div class="row px-3 py-3">
         <div class="col-lg-12">
